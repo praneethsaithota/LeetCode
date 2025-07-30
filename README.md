@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/praneethsaithota/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sorting
