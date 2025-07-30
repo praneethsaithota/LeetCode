@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/praneethsaithota/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/praneethsaithota/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/praneethsaithota/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/praneethsaithota/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/praneethsaithota/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -105,9 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/praneethsaithota/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/praneethsaithota/LeetCode/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/praneethsaithota/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
