@@ -19,7 +19,7 @@ class Solution {
             t=t.next;
         }
         c++;
-        if(c==k)return head;
+       
         t.next=head;
         k=k%c;
 
