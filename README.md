@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praneethsaithota/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/praneethsaithota/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/praneethsaithota/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/praneethsaithota/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praneethsaithota/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/praneethsaithota/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/praneethsaithota/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/praneethsaithota/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/praneethsaithota/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/praneethsaithota/LeetCode/tree/master/0053-maximum-subarray) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praneethsaithota/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praneethsaithota/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praneethsaithota/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/praneethsaithota/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
