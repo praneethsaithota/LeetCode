@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/praneethsaithota/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/praneethsaithota/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/praneethsaithota/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/praneethsaithota/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/praneethsaithota/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
