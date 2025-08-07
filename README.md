@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/praneethsaithota/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Sorting
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/praneethsaithota/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/praneethsaithota/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/praneethsaithota/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/praneethsaithota/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/praneethsaithota/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praneethsaithota/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/praneethsaithota/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
