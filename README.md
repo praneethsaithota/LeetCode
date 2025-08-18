@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/praneethsaithota/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/praneethsaithota/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0052-n-queens-ii) |
+| [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneethsaithota/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
