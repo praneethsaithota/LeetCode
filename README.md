@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/praneethsaithota/LeetCode/tree/master/0344-reverse-string) |
 | [1250-longest-common-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2128-reverse-prefix-of-word](https://github.com/praneethsaithota/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneethsaithota/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Bit Manipulation
 |  |
 | ------- |
