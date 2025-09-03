@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/praneethsaithota/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/praneethsaithota/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/praneethsaithota/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/praneethsaithota/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/praneethsaithota/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/praneethsaithota/LeetCode/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/praneethsaithota/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praneethsaithota/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/praneethsaithota/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Sliding Window
