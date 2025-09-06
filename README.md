@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/praneethsaithota/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/praneethsaithota/LeetCode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0229-majority-element-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/praneethsaithota/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/praneethsaithota/LeetCode/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/praneethsaithota/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Backtracking
 |  |
