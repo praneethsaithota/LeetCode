@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/praneethsaithota/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/praneethsaithota/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/praneethsaithota/LeetCode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/praneethsaithota/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/praneethsaithota/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praneethsaithota/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -352,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/praneethsaithota/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/praneethsaithota/LeetCode/tree/master/1827-invalid-tweets) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/praneethsaithota/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/praneethsaithota/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/praneethsaithota/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
