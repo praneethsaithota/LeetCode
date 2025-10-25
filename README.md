@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/praneethsaithota/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/praneethsaithota/LeetCode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0229-majority-element-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/praneethsaithota/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praneethsaithota/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/praneethsaithota/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/praneethsaithota/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praneethsaithota/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/praneethsaithota/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/praneethsaithota/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/praneethsaithota/LeetCode/tree/master/0279-perfect-squares) |
 | [1250-longest-common-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praneethsaithota/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/praneethsaithota/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/praneethsaithota/LeetCode/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/praneethsaithota/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/praneethsaithota/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/praneethsaithota/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 ## Merge Sort
 |  |
 | ------- |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/praneethsaithota/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
