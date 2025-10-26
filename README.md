@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/praneethsaithota/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/praneethsaithota/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/praneethsaithota/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praneethsaithota/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/praneethsaithota/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/praneethsaithota/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/praneethsaithota/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/praneethsaithota/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/praneethsaithota/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
