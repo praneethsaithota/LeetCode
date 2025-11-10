@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/praneethsaithota/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/praneethsaithota/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/praneethsaithota/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/praneethsaithota/LeetCode/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/praneethsaithota/LeetCode/tree/master/0463-island-perimeter) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/praneethsaithota/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Search
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/praneethsaithota/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/praneethsaithota/LeetCode/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Dynamic Programming
