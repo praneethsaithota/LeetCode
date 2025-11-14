@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/praneethsaithota/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/praneethsaithota/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/praneethsaithota/LeetCode/tree/master/0190-reverse-bits) |
 ## Math
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/praneethsaithota/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/praneethsaithota/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/praneethsaithota/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/praneethsaithota/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/praneethsaithota/LeetCode/tree/master/0389-find-the-difference) |
 | [0800-letter-case-permutation](https://github.com/praneethsaithota/LeetCode/tree/master/0800-letter-case-permutation) |
