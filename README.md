@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/praneethsaithota/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/praneethsaithota/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praneethsaithota/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/praneethsaithota/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/praneethsaithota/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/praneethsaithota/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/praneethsaithota/LeetCode/tree/master/0344-reverse-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praneethsaithota/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/praneethsaithota/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/praneethsaithota/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/praneethsaithota/LeetCode/tree/master/0389-find-the-difference) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/praneethsaithota/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/praneethsaithota/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/praneethsaithota/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/praneethsaithota/LeetCode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/praneethsaithota/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/praneethsaithota/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
