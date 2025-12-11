@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3531-count-covered-buildings](https://github.com/praneethsaithota/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/praneethsaithota/LeetCode/tree/master/0389-find-the-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/praneethsaithota/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3531-count-covered-buildings](https://github.com/praneethsaithota/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/praneethsaithota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/praneethsaithota/LeetCode/tree/master/0500-keyboard-row) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
+| [3531-count-covered-buildings](https://github.com/praneethsaithota/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Stack
 |  |
 | ------- |
