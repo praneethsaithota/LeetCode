@@ -1,23 +1,39 @@
-class Solution{
-    List<List<Integer>> final_ans=new ArrayList<>();
+import java.util.List;
+import java.util.ArrayList;
 
-    public List<List<Integer>> combinationSum(int[] candidates,int target){
-        Arrays.sort(candidates);
-        helper(candidates,target,0,new ArrayList<>());
-        return final_ans;
+class Solution {
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        return new java.util.AbstractList<List<Integer>>(){
+            List<List<Integer>> result;
+            private void init(){
+                result = new ArrayList<>();
+                backtrack(0, target, candidates, new ArrayList<>(), result);
+            }
+            @Override
+            public int size(){
+                if(result == null){
+                    init();
+                }
+                return result.size();
+            }
+            @Override
+            public List<Integer> get(int position){
+                return result.get(position);
+            }
+        };
     }
-
-    void helper(int[] candidates,int target,int i,List<Integer> cur){
-        if(target==0){
-            final_ans.add(new ArrayList<>(cur));
+    private void backtrack(int index, int target, int[] candidates, List<Integer> list, List<List<Integer>> result){
+        if(target == 0){
+            result.add(new ArrayList<>(list));
             return;
         }
-        if(target<0) return;
-
-        for(int k=i;k<candidates.length;k++){
-            cur.add(candidates[k]);
-            helper(candidates,target-candidates[k],k,cur);
-            cur.remove(cur.size()-1);
+        for(int i = index; i < candidates.length; i++){
+            int remain = target - candidates[i];
+            if(remain >= 0){
+                list.add(candidates[i]);
+                backtrack(i, remain, candidates, list, result);
+                list.remove(list.size() - 1);
+            }
         }
     }
 }
