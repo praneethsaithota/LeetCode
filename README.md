@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/praneethsaithota/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/praneethsaithota/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/praneethsaithota/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/praneethsaithota/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Greedy
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/praneethsaithota/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/praneethsaithota/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/praneethsaithota/LeetCode/tree/master/0441-arranging-coins) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/praneethsaithota/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praneethsaithota/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/praneethsaithota/LeetCode/tree/master/2998-count-symmetric-integers) |
