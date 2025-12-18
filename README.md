@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praneethsaithota/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethsaithota/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/praneethsaithota/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/praneethsaithota/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/praneethsaithota/LeetCode/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/praneethsaithota/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praneethsaithota/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/praneethsaithota/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/praneethsaithota/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/praneethsaithota/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/praneethsaithota/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/praneethsaithota/LeetCode/tree/master/0493-reverse-pairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/praneethsaithota/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
