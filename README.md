@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/praneethsaithota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/praneethsaithota/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/praneethsaithota/LeetCode/tree/master/0135-candy) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/praneethsaithota/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Backtracking
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/praneethsaithota/LeetCode/tree/master/0500-keyboard-row) |
 | [0800-letter-case-permutation](https://github.com/praneethsaithota/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1250-longest-common-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
