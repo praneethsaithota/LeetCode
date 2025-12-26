@@ -1,42 +1,38 @@
 class Solution {
     public int bestClosingTime(String customers) {
-        int penalty = Integer.MAX_VALUE;
         int n=customers.length();
         int ans=0;
-
-        int[] pre_n = new int[n];
-        int[] suf_y = new int[n];
-
-        for(int i=0;i<n;i++){
+        int[] dp1 = new int[n];
+        int[] dp2 = new int[n];
+        if(customers.charAt(0) == 'N') dp1[0] = 1;
+        if(customers.charAt(n-1)=='Y') dp2[n-1] = 1;
+        for(int i=1;i<n;i++){
             if(customers.charAt(i) == 'N'){
-                if(i==0) pre_n[0]=1;
-                else pre_n[i]=pre_n[i-1]+1;
-            }else{
-                if(i!=0) pre_n[i]=pre_n[i-1];
+                dp1[i]=dp1[i-1]+1;
+            }
+            else{
+                dp1[i]=dp1[i-1];
             }
         }
-
-        for(int i=n-1;i>=0;i--){
+        for(int i=n-2;i>=0;i--){
             if(customers.charAt(i) == 'Y'){
-                if(i==n-1) suf_y[n-1]=1;
-                else suf_y[i]=suf_y[i+1]+1;
-            }else{
-                if(i!=n-1) suf_y[i]=suf_y[i+1];
+                dp2[i]=dp2[i+1]+1;
+            }
+            else{
+                dp2[i]=dp2[i+1];
             }
         }
-
-        for(int k=0;k<=n;k++){
-            int cur=0;
-
-            if(k>0) cur+=pre_n[k-1];
-            if(k<n) cur+=suf_y[k];
-
-            if(cur<penalty){
-                penalty=cur;
-                ans=k;
+        int pen = dp2[0];
+        if(pen == n) return n;
+        for(int i=1;i<n;i++){
+            if(dp1[i-1] + dp2[i] < pen ){
+                pen=dp1[i-1] + dp2[i];
+                ans=i;
             }
         }
-
+        if(dp1[n-1] < pen){
+            ans = n;
+        }
         return ans;
     }
 }
