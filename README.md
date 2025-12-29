@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/praneethsaithota/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/praneethsaithota/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/praneethsaithota/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethsaithota/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/praneethsaithota/LeetCode/tree/master/0463-island-perimeter) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/praneethsaithota/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/praneethsaithota/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/praneethsaithota/LeetCode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/praneethsaithota/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/praneethsaithota/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/praneethsaithota/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/praneethsaithota/LeetCode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/praneethsaithota/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/1250-longest-common-subsequence) |
