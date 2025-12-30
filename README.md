@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/praneethsaithota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/praneethsaithota/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethsaithota/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/praneethsaithota/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/praneethsaithota/LeetCode/tree/master/0500-keyboard-row) |
+| [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2402-meeting-rooms-iii](https://github.com/praneethsaithota/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/praneethsaithota/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/praneethsaithota/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/praneethsaithota/LeetCode/tree/master/0463-island-perimeter) |
+| [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/praneethsaithota/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/praneethsaithota/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/praneethsaithota/LeetCode/tree/master/0441-arranging-coins) |
+| [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/praneethsaithota/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praneethsaithota/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/praneethsaithota/LeetCode/tree/master/2998-count-symmetric-integers) |
