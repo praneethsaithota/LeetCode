@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praneethsaithota/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/praneethsaithota/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/praneethsaithota/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2402-meeting-rooms-iii](https://github.com/praneethsaithota/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
