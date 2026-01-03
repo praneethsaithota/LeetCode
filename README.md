@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/praneethsaithota/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praneethsaithota/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praneethsaithota/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/praneethsaithota/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
