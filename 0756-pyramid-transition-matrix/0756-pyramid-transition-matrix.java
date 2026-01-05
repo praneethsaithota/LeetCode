@@ -6,33 +6,38 @@ class Solution {
             map.computeIfAbsent(key, k -> new ArrayList<>()).add(s.charAt(2));
         }
         Set<String> memo = new HashSet<>();
-        return dfs(bottom, map, memo, new StringBuilder());
+        return dfs(bottom, map, memo);
     }
 
-    private boolean dfs(String bottom, Map<String, List<Character>> map,
-                        Set<String> memo, StringBuilder st) {
+    private boolean dfs(String bottom, Map<String, List<Character>> map, Set<String> memo) {
         if (bottom.length() == 1) return true;
         if (memo.contains(bottom)) return false;
 
-        return buildNext(bottom, 0, map, memo, st);
-    }
+        List<String> nextRows = new ArrayList<>();
+        buildNext(bottom, 0, new StringBuilder(), map, nextRows);
 
-    private boolean buildNext(String bottom, int idx, Map<String, List<Character>> map,
-                              Set<String> memo, StringBuilder st) {
-        if (idx == bottom.length() - 1) {
-            return dfs(st.toString(), map, memo, new StringBuilder());
-        }
-
-        String key = bottom.substring(idx, idx + 2);
-        if (!map.containsKey(key)) return false;
-
-        for (char c : map.get(key)) {
-            st.append(c);
-            if (buildNext(bottom, idx + 1, map, memo, st)) return true;
-            st.deleteCharAt(st.length() - 1);
+        for (String next : nextRows) {
+            if (dfs(next, map, memo)) return true;
         }
 
         memo.add(bottom);
         return false;
+    }
+
+    private void buildNext(String bottom, int idx, StringBuilder st,
+                           Map<String, List<Character>> map, List<String> nextRows) {
+        if (idx == bottom.length() - 1) {
+            nextRows.add(st.toString());
+            return;
+        }
+
+        String key = bottom.substring(idx, idx + 2);
+        if (!map.containsKey(key)) return;
+
+        for (char c : map.get(key)) {
+            st.append(c);
+            buildNext(bottom, idx + 1, st, map, nextRows);
+            st.deleteCharAt(st.length() - 1);
+        }
     }
 }
