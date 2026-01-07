@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praneethsaithota/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/praneethsaithota/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0904-fruit-into-baskets](https://github.com/praneethsaithota/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/praneethsaithota/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/praneethsaithota/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0756-pyramid-transition-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0904-fruit-into-baskets](https://github.com/praneethsaithota/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2402-meeting-rooms-iii](https://github.com/praneethsaithota/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3531-count-covered-buildings](https://github.com/praneethsaithota/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praneethsaithota/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/praneethsaithota/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Bit Manipulation
 |  |
