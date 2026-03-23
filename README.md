@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/praneethsaithota/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/praneethsaithota/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praneethsaithota/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praneethsaithota/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2402-meeting-rooms-iii](https://github.com/praneethsaithota/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/praneethsaithota/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/praneethsaithota/LeetCode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/praneethsaithota/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Dynamic Programming
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/praneethsaithota/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/praneethsaithota/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praneethsaithota/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praneethsaithota/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/praneethsaithota/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## String
