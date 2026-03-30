@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/praneethsaithota/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2402-meeting-rooms-iii](https://github.com/praneethsaithota/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/praneethsaithota/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/praneethsaithota/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/praneethsaithota/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/praneethsaithota/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/praneethsaithota/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/praneethsaithota/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/praneethsaithota/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2402-meeting-rooms-iii](https://github.com/praneethsaithota/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/praneethsaithota/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/praneethsaithota/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Stack
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/praneethsaithota/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2128-reverse-prefix-of-word](https://github.com/praneethsaithota/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/praneethsaithota/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/praneethsaithota/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
